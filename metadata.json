@@ -1,0 +1,7 @@
+{
+  "name": "Coke Flow 2026",
+  "description": "A digital-first, neumorphic, and hyper-personalized rebranding concept for Coca-Cola in 2026, featuring Cyber-Red and Digital Lavender aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
